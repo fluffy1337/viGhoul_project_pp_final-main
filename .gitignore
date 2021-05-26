@@ -1,0 +1,6 @@
+dist
+build
+dev_wgui/node_modules
+__pycache__
+.vscode
+error.log
